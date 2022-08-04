@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import './ShopItemFunc.css';
+import './App.css';
 
 function ShopItemFunc(props) {
   const {item} = props;
